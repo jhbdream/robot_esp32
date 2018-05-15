@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "c",
+			"mpu6050.h": "c",
+			"queue.h": "c",
+			"math.h": "c",
+			"uart1.h": "c"
+		}
+	}
+}
